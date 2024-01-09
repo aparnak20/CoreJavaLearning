@@ -26,7 +26,7 @@ public class Lab099 {
 
         final int[] b = new int[4];
         // b-> [0,0,0,0]
-        b[0] = 78;
+        b[0] = 88;
         System.out.println(b[0]);
     }
 }
